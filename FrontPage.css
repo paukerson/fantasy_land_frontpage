@@ -259,7 +259,7 @@ body{
     }
 
     .icon-telegram{
-        top: 0px;
+        top: 250px;
     }
     .icon-twitter{
         bottom: 200px;
@@ -268,7 +268,7 @@ body{
         bottom: 150px;
     }
     .icon-discord{
-        bottom: 0px;
+        bottom: 100px;
     }
 
     .icon-transform{
