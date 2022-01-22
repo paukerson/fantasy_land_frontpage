@@ -259,7 +259,7 @@ body{
     }
 
     .icon-telegram{
-        top: 250px;
+        bottom: 250px;
     }
     .icon-twitter{
         bottom: 200px;
